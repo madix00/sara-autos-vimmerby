@@ -1,0 +1,46 @@
+@keyframes glow-red {
+  0% {
+    box-shadow:
+      0 0 1px var(--color-red-600),
+      0 0 10px var(--color-red-600);
+  }
+  50% {
+    box-shadow:
+      0 0 10px var(--color-red-600),
+      0 0 20px var(--color-red-600);
+  }
+  100% {
+    box-shadow:
+      0 0 1px var(--color-red-600),
+      0 0 10px var(--color-red-600);
+  }
+}
+
+.discount-glow-border {
+  animation: glow-red 2s infinite ease-in-out;
+  border: 1px solid var(--color-red-600);
+  border-radius: 0.5rem;
+}
+
+@keyframes orange-flow {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: 200% 0;
+  }
+}
+
+.orange-gradient-animated {
+  background: repeating-linear-gradient(
+    90deg,
+    #deac39 0%,
+    #deac39 25%,
+    #deac39 50%,
+    #ffe168 75%,
+    #deac39 100%
+  );
+
+  background-size: 200% 100%;
+  animation: orange-flow 3s linear infinite;
+}

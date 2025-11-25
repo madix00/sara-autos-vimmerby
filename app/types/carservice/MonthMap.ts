@@ -1,0 +1,17 @@
+export const MonthMap: Record<string, number> = {
+  januari: 0,
+  februari: 1,
+  mars: 2,
+  april: 3,
+  maj: 4,
+  juni: 5,
+  juli: 6,
+  augusti: 7,
+  september: 8,
+  sep: 8,
+  oktober: 9,
+  okt: 9,
+  november: 10,
+  nov: 10,
+  december: 11,
+};

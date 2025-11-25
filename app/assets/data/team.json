@@ -1,0 +1,34 @@
+{
+	"members": {
+		"member 1": {
+			"name": "Perry Sterndalen",
+			"role": "Verksamhetschef & grundare",
+			"imageUrl": "https://images.unsplash.com/photo-1757406005026-990a2b022e49?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&q=60&w=600",
+			"phone": "0731636377",
+			"email": "perry.sterndalen@rattbil.se",
+			"linkedin": "",
+			"instagram": "",
+			"facebook": ""
+		},
+		"member 2": {
+			"name": "Simon Jansson",
+			"role": "Säljchef",
+			"imageUrl": "https://plus.unsplash.com/premium_photo-1723485626581-0b807bba2452?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=600",
+			"phone": "0738184711",
+			"email": "simon.jansson@rattbil.se",
+			"linkedin": "",
+			"instagram": "",
+			"facebook": ""
+		},
+		"member 3": {
+			"name": "Emily Bengtsson",
+			"role": "Verkstadschef",
+			"imageUrl": "https://plus.unsplash.com/premium_photo-1682437845919-2f07f880d07b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&q=60&w=600",
+			"phone": "0734411223",
+			"email": "emily.bengtsson@rattbil.se",
+			"linkedin": "",
+			"instagram": "",
+			"facebook": ""
+		}
+	}
+}

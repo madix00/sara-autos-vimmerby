@@ -1,0 +1,111 @@
+{
+  "company_name": "VIP On 4 Wheels",
+  "email": "madigtx00@gmail.com",
+  "logo": "https://vip-bilar.se/wp-content/uploads/2019/10/viplogga.png",
+  "google_maps": "https://maps.app.goo.gl/1v51GFUFKz8Dv72w6",
+  "google_maps_iframe_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1691.5500112950322!2d15.796908099999998!3d57.73871969999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4659c8234d482c63%3A0xe6d48d17add98b4c!2sS%C3%B6dra%20Storgatan%2014%2C%20590%2080%20S%C3%B6dra%20Vi!5e1!3m2!1sen!2sse!4v1764063472746!5m2!1sen!2sse",
+  "weekly_hours": {
+    "Monday": ["10:00", "18:00"],
+    "Tuesday": ["10:00", "18:00"],
+    "Wednesday": ["10:00", "18:00"],
+    "Thursday": ["10:00", "18:00"],
+    "Friday": ["10:00", "18:00"],
+    "Saturday": ["11:00", "15:00"],
+    "Sunday": null
+  },
+  "reviews": [
+    {
+      "name": "Pekka Puranen",
+      "imageUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWNU8xBieYRKsleFfMURP6t9VW3XUOYiK1MIhrnsZJ1W4Uy4M--=w90-h90-p-rp-mo-br100",
+      "text": "En jättetrevlig och välkomnande bilhandel jämnfört med andra bilhandlare vi varit hos. Vi har åkt runt 7st i Örebro med omnejd med tveksam säljartaktik och bemötande."
+    },
+    {
+      "name": "Marcos Niklasson",
+      "imageUrl": "https://lh3.googleusercontent.com/a-/ALV-UjU3IWh3XULC1C-h1I7zG4KrJ8o-rflUklBooAdc2XDXE_kiFO66=w90-h90-p-rp-mo-ba2-br100",
+      "text": "Finns inget negativt med dessa trevliga människor. Kristoffer som hjälpte mig är en rak, ärlig och kunnig person. Vi kommer tillbaka! Stort plus till bossen som kom fram och hälsade direkt när man klev in."
+    },
+    {
+      "name": "Mats Persson",
+      "imageUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUpKJ-Z2s8VBvJ-BQlDpwng1bsN0_-0nxstzNyOvRELi9Bcj2ul=w90-h90-p-rp-mo-br100",
+      "text": "Är mycket nöjd med hur köpet gick till och Vadde förklarade allt bra. Det går inte att ge mer än 5 stjärnor, annars hade han fått det 👌🏻🤠👍🏻"
+    },
+    {
+      "name": "Jim Ivars",
+      "imageUrl": "",
+      "text": "Är otroligt nöjd som valde denna bilfirma ❤️. Är så mån om sina kunder till 100%. Proffesionellt bemötande och service. Lämnar inte nån efter bilköpet, hatten av 🎩🙏🏻"
+    },
+    {
+      "name": "Linda Edner",
+      "imageUrl": "",
+      "text": "Fantastisk serviceanda rakt igenom. Väldigt lösningsorienterad och ett fint kundbemötande. Kan varmt rekommendera dom."
+    },
+    {
+      "name": "Axel Edlund",
+      "imageUrl": "",
+      "text": "Köpte bil för ett tag sedan, smidig affär och proffesionellt bemötande. Bilen fungerar klockrent än idag, inga konstigheter"
+    },
+    {
+      "name": "Philip Wiinther",
+      "imageUrl": "",
+      "text": "En bilfirma man kan lita på! Proffsigt bemötande, förstklassig service och riktigt bra bilar. Rekommenderas varmt! Helt klart 5 ⭐️"
+    },
+    {
+      "name": "Christoffer Johannesson",
+      "imageUrl": "",
+      "text": "Dunder sköna grabbar speciellt kristoffer riktigt bra service 10/10 professionell hjälp fin lokal och fräsha bilar och rekommenderar starkt! Shoot out till VIP cars"
+    }
+  ],
+  "members": [
+    {
+      "name": "Perry Sterndalen",
+      "role": "Verksamhetschef & grundare",
+      "imageUrl": "https://images.unsplash.com/photo-1757406005026-990a2b022e49?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&q=60&w=600",
+      "phone": "0731636377",
+      "email": "perry.sterndalen@rattbil.se",
+      "linkedin": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    {
+      "name": "Simon Jansson",
+      "role": "Säljchef",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1723485626581-0b807bba2452?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=600",
+      "phone": "0738184711",
+      "email": "simon.jansson@rattbil.se",
+      "linkedin": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    {
+      "name": "Emily Bengtsson",
+      "role": "Verkstadschef",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1682437845919-2f07f880d07b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&q=60&w=600",
+      "phone": "0734411223",
+      "email": "emily.bengtsson@rattbil.se",
+      "linkedin": "",
+      "instagram": "",
+      "facebook": ""
+    }
+  ],
+  "brands": [
+    "Audi",
+    "BMW",
+    "Chevrolet",
+    "Dacia",
+    "Ferrari",
+    "Ford",
+    "Jaguar",
+    "Kia",
+    "Lexus",
+    "Maserati",
+    "McLaren",
+    "Mercedes",
+    "Nissan",
+    "Opel",
+    "Renault",
+    "Skoda",
+    "Toyota",
+    "Volkswagen",
+    "Volvo"
+  ]
+}

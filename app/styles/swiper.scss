@@ -1,0 +1,34 @@
+.swiper-button-next,
+.swiper-button-prev {
+	color: white !important;
+	background-color: rgba(0, 0, 0, 0.5);
+	padding: 1rem;
+	border-radius: 9999px;
+	transition: background-color 0.3s;
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+.swiper-pagination-bullet {
+	background-color: #1a1414 !important;
+	width: 9px !important;
+	height: 9px !important;
+	opacity: 0.4 !important;
+}
+
+.swiper-pagination-bullet-active {
+	opacity: 1 !important;
+	background-color: #3b3b3b !important; /* Tailwind blue-600 */
+}
+
+/* Dark background blur */
+.yarl__container {
+	background-color: #000000e6 !important;
+}
+
+.yarl__slide_image {
+	border-radius: 1rem !important;
+}
