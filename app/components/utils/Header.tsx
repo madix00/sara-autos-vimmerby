@@ -47,11 +47,7 @@ export default function Header() {
             <span className="sr-only">{company_name}</span>
             <img
               alt=""
-              src={
-                isDark
-                  ? "https://i.blocketcdn.se/pictures/stores/logo_42862_utr.jpg?type=original"
-                  : "https://i.blocketcdn.se/pictures/stores/logo_42862_utr.jpg?type=original"
-              }
+              src={isDark ? "/sara-logo.jpg" : "/sara-logo.jpg"}
               // red car classes
               // className="w-18 h-18 object-cover hover:opacity-80"
               // className=" w-35 md:w-50 h-auto object-contain hover:opacity-80 "
