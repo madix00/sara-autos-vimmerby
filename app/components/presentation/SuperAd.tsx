@@ -6,7 +6,7 @@ import { div } from "framer-motion/client";
 
 export default function SuperAd() {
   const superCar = carService.getMostExpensiveCar();
-  const base_url = "https://carbusiness-template.vercel.app";
+  const base_url = "https://sara-autos-vimmerby.vercel.app";
 
   const carLink = `${base_url}/bilar/${superCar?.blocket_link
     .split("/")
