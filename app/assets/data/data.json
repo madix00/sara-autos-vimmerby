@@ -9,47 +9,66 @@
   "map_link": "https://www.google.com/maps/search/?api=1&query=S%C3%B6dra%20Storgatan%2014%2C%20598%2071%20S%C3%B6draVi",
   "cars": [
     {
-      "title": "Opel Vivaro",
-      "subTitle": "2.9t BiTurbo 1.6 CDTI 125hk MOMS **SÅLD**",
-      "price": 159000,
-      "description": "**NU DRAR VI IGÅNG VINTER KAMPANJ, REA PÅ ALLA VÅRA BILAR & GARANTI INGÅR **\n**Kan finansieras från 0 kronor i samarbete med Mymoney.** ***Vi tar gärna din bil i inbyte! Hjärtligt välkomna *** ENDAST 2 049 KR / MÅN /*** Utan kontantin-sats. ***0724561313  ***REA *** 1 År garanti ingår REA***\n ,Välservad. * *  1 Ägare resten bilhandlare.  Fjärrstyrd Dieselvärmare.  Navigation **  Nybesiktigad tom 2025-05-31\n PASSA PÅ & FÖRVÄRVA EN RIKTIGT FIN SAMT VÄLVÅRDAD Opel vivaro, Facelift, EURO 6.  Endast 1 privat ägare, resten Bilhandlare. Svensksåld.**Nybilkänsla. Nästintill nyskick.  Nu har vi fått in en mycket fin Vivaro med Kamkedja.  Bi turbo med pigga 125hk som är i kanon skick, Nya modellen.  Fjärrstyrd dieselvärmare,  2 st nycklar, farthållare, bluetooth, Drag, parkerings sensorer bak, Bak kamera, navigation, 3 sits, manuell 6 växlad och mycket mer se utrustningslista ovanför.  Nybesiktigad tom 2025-05-31 **Toppskick* Rostfri, Bränslesnål 5.5 l/100km.  Årsskatt 3673 kr.  Går kanonbra i motor & växellåda.*Mycket fint i lacken. Allt fungerar som det ska, inga kända fel. **Service bok finns.  Väl servad bil som är fräsch både in och utvändig, Djur & Rökfri. . Full dokumentation. Hel och ren in & utvändigt. **. Välvårdad. . *  1År Garanti ingår * tecknas i samband med köp**  Ring oss gärna på 0724561313 Välkomna.",
+      "title": "Volkswagen Golf",
+      "subTitle": "1.6 TDI BMT 4Motion 6 mån Garanti 1ägare 4x4",
+      "price": 79900,
+      "description": "0724561313  **Kan finansieras från 0 kronor i samarbete med Mymoney.** ***Vi tar gärna din bil i inbyte! Hjärtligt välkomna *** ENDAST 490 KR / MÅN /*** Utan kontantin-sats. ***0724561313  ***REA 6 mån Garanti, Nybesikt,\n . **1 Ägare resten bilhandlare. Toppskick* Rostfri, Nybesiktigad tom 2027-01-31 utan anmärkning,  Facelift. *PASSA PÅ & FÖRVÄRVA EN RIKTIGT FIN SAMT VÄLVÅRDAD Golf fyrhjulsdriven 4x4, Facelift, Toppskick, Välservad. Svensksåld.**Nybilkänsla. Nu har vi fått in en  fin Golf som är i kanon skick, pedantskött, farthållare med distansreglering, 6 växlad, Motorväramre, Parkeringssensorer, Fullservice historik alla serviceportokoller finns tillhands, Kamrem & vattenpump är bytt vid 21xxxmil och mycket mer se utrustningslista ovanför. Nyservad **Toppskick* Rostfri 99%,  Går kanonbra i motor & växellåda.*Bränslesnål årsskat 1520kr.  Mycket fint i lacken. * Sommar & vinterdäck i bra skick, Väl servad bil som är fräsch både in och utvändig, Djur & Rökfri. . Hel och ren in & utvändigt. **. Välvårdad. .Pedant skött * 6 mån Garanti ingår tecknas i samband med köp**  Ring oss gärna på 0724561313 Välkomna.",
       "equipment": [
+        "12V-uttag",
         "ABS",
         "Airbag fram",
         "Antispinn",
         "AUX-ingång",
+        "Avstängningsbar airbag passagerare",
         "Backstartshjälp",
+        "Barnlås",
         "Broms-assistans",
         "Centrallås",
-        "Döda vinkel-varning",
+        "ECC",
         "Elektriska sidospeglar",
-        "Elhissar (fram)",
-        "Euro 6",
+        "Elhissar (fram och bak)",
+        "Elinfällbara sidospeglar",
+        "Euro NCAP 5",
+        "Fartbegränsare",
+        "Farthållare",
+        "Fällbart baksäte",
         "Färddator",
+        "Förarassistans",
+        "Isofix",
         "Kylbart handskfack",
         "Läslampa",
+        "Multifunktionsratt",
+        "Radio/CD",
+        "Reservhjul",
         "Servostyrning",
+        "Sidoairbags",
+        "Sidokrockgardiner",
         "Start-/stoppfunktion",
         "Startspärr",
         "Svensksåld",
-        "USB-uttag"
+        "Touch-/Pekskärm",
+        "Trötthetsvarnare",
+        "Uppvärmda spolare",
+        "Uppvärmda säten, fram",
+        "USB-uttag",
+        "Yttertemperaturmätare"
       ],
       "specs": [
         {
           "header": "Märke",
-          "description": "Opel"
+          "description": "Volkswagen"
         },
         {
           "header": "Modell",
-          "description": "Vivaro"
+          "description": "Golf"
         },
         {
           "header": "Modellår",
-          "description": "2020"
+          "description": "2016"
         },
         {
           "header": "Karosseri",
-          "description": "Skåpbil"
+          "description": "Halvkombi 5-dörrar"
         },
         {
           "header": "Drivmedel",
@@ -57,27 +76,39 @@
         },
         {
           "header": "Effekt",
-          "description": "125 Hk"
+          "description": "105 Hk"
+        },
+        {
+          "header": "Motorvolym",
+          "description": "1,6 l"
         },
         {
           "header": "Miltal",
-          "description": "9 658 mil"
+          "description": "24 819 mil"
         },
         {
           "header": "Växellåda",
           "description": "Manuell"
         },
         {
+          "header": "Max trailervikt",
+          "description": "1 700 kg"
+        },
+        {
           "header": "Drivhjul",
-          "description": "Tvåhjulsdriven"
+          "description": "Fyrhjulsdrift"
+        },
+        {
+          "header": "Säten",
+          "description": "5"
         },
         {
           "header": "Färg",
-          "description": "Svart"
+          "description": "Vit"
         },
         {
           "header": "Färgbeskrivning",
-          "description": "Svart"
+          "description": "Vit"
         },
         {
           "header": "Bilens plats",
@@ -85,56 +116,56 @@
         },
         {
           "header": "Avgiftsklass",
-          "description": "Transportbil"
+          "description": "Personbil"
         },
         {
           "header": "Registreringsnummer",
-          "description": "SBT86P"
+          "description": "EPP403"
         },
         {
           "header": "Chassinummer",
-          "description": "w0vf7d606kv639029"
+          "description": "wvwzzzauzfw331732"
         },
         {
           "header": "Registreringsdatum",
-          "description": "2019-05-22"
+          "description": "2015-05-21"
         },
         {
           "header": "Försäljningsform",
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "25 november 2025, 02:50",
+      "uploaded_time": "29 november 2025, 16:02",
       "pictures": [
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/b6495e33-16a7-4dbc-8ef6-232c028b69b8",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/3a476aca-cdd6-44fe-a095-127455f67176",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/880acf4b-6231-444d-8663-8bd4a9080aba",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/3ec41dd1-01ca-4ddd-a8d0-b5f3d31710fb",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/f35c24e3-a11e-4a14-a56b-2a0a91ce3bc4",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/baa6007a-ecdc-464c-ae63-67942578431b",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/2b1d1896-59bf-44f4-b988-7db1deacbb4b",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/1f4ef679-fe09-496c-8f3d-0e03c9f3adcb",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/f7094b3b-f3da-443d-84fa-6f8b5e48489d",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/dd892530-2c19-499b-bdf9-8d3224479837",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/c62be5ce-1629-499d-b626-063e318ad0c3",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/70800882-c7a9-4e5d-91fd-820c9b57fc1a",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/558126dd-9240-49c4-b773-2e65dc4e9b5e",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/2b6df082-b1d8-4636-b7d5-e8dd42fdd4ae",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/5a57028c-e9d3-4bc1-b415-1a6d0778055f",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/39518b69-12ce-4f7c-a68d-bf50ebea112e",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/6677b7a4-95a8-4a18-990c-291994712fdb",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/c5d2c89f-05ee-4f12-8f7e-2360dcdcce1e",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/8b59c9a6-09e9-4f83-948f-4c770b702c54",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/e2af2d26-b477-417b-81fb-0f5e8b8a1302",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/89d7fba7-3b20-4e5e-a6b0-4e3f6913f283",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/bba506a2-76ea-4d26-b587-af3dc40bdfe8",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/773e948b-7f40-499e-90fe-5209a4439967",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/3857d153-c561-48a4-9a5a-a0a5d9fffb84",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/7a7ad3b6-dcd8-403e-9f00-69f3535399e9",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/d967837f-6b5a-4e25-9a3f-6a81193e7ed9",
-        "https://images.blocketcdn.se/dynamic/1600w/item/19010498/d61fc57b-6736-44ca-b2e3-9fd036e2b557"
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/b4acb279-c060-4a42-9ed3-d6930b7c949f",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/ad203dfd-6577-44b9-a8e4-4ed0cd465675",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/d70d3ea4-703d-4176-bb07-26a39a512a12",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/66d0ad92-3e7b-4b37-ba10-117da89ce850",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/af0fb239-4e3b-4b59-95a5-46431f429841",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/ebd30e27-5ddb-4c5e-a750-1c1b08315e7d",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/32d8a00a-fe0e-449d-b39a-d76c93bf725b",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/17374d50-8487-41c5-abeb-7aa5bd08f6d7",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/25d90fa2-5d3e-4aed-8fb7-4bda9cb865fc",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/ca01cf8e-ec9f-4f0a-a449-5a5eccbf22d3",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/18dbbef6-cfb0-4d5d-9260-926673b43182",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/3575455d-1172-48ad-b175-4de1b8b5ebd6",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/574e1023-2f7c-4622-9342-286807f29385",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/c99cd20a-28a5-4651-856d-59fcd96d572f",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/2bda999f-047d-43d0-b53b-6b591da78b2c",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/cb7ebbde-83dc-417e-8a14-450a1d670525",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/7b1ba795-d1c3-4996-86b4-b1da70a9f10f",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/6eb9091a-6a36-4203-9625-fbbf9cf757b4",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/e7b26b33-1596-4178-9056-bf5966b97843",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/cd768dbf-e5f8-49fa-96ce-1f9d532bb4ae",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/e8ed45fe-696f-4784-83bb-e3e761b187f9",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/f8889195-049d-4540-b214-b94e010e8697",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/7def56f2-a192-4044-a745-7a89f30ad033",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/e72850b4-8ade-4a55-bb32-77133a3eaf33",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/fcfaac82-8089-4557-b00d-af68c60058ec",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/20c90d4d-bf89-4274-9ee2-f4166788e233",
+        "https://images.blocketcdn.se/dynamic/1600w/item/19119496/518ef013-6b23-447d-88d4-6ad4c77f9a8f"
       ],
-      "blocket_link": "https://www.blocket.se/mobility/item/19010498"
+      "blocket_link": "https://www.blocket.se/mobility/item/19119496"
     },
     {
       "title": "Volkswagen Transporter",
@@ -257,7 +288,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "23 november 2025, 14:38",
+      "uploaded_time": "27 november 2025, 02:51",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/18965833/b73daf7a-4adf-4ed6-a698-9edc94439fcb",
         "https://images.blocketcdn.se/dynamic/1600w/item/18965833/73b55c40-6bb5-4f78-bbe5-8512f9919c6c",
@@ -408,7 +439,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "21 november 2025, 22:11",
+      "uploaded_time": "27 november 2025, 02:37",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/18917266/fdf5ed6a-7323-4148-a411-b94f46997b0b",
         "https://images.blocketcdn.se/dynamic/1600w/item/18917266/55660017-4625-4b3f-9f72-23fbef46be84",
@@ -535,7 +566,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "25 november 2025, 02:50",
+      "uploaded_time": "27 november 2025, 01:43",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/18916693/5928159d-bc0c-421c-811a-6c3438900300",
         "https://images.blocketcdn.se/dynamic/1600w/item/18916693/ddc4dde7-035c-4e05-8ed1-e1dec22adf22",
@@ -675,7 +706,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "13 november 2025, 02:54",
+      "uploaded_time": "27 november 2025, 03:03",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/18645563/f1060485-99bc-44fe-9142-24faa2f2ae11",
         "https://images.blocketcdn.se/dynamic/1600w/item/18645563/27b0cb26-581a-442f-90dc-12f0be4ea7e7",
@@ -815,7 +846,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "25 november 2025, 02:46",
+      "uploaded_time": "27 november 2025, 01:40",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/18645102/9a14771c-7ab0-4d0f-9ea5-621540d02820",
         "https://images.blocketcdn.se/dynamic/1600w/item/18645102/86e239ae-8e74-4086-8c57-0b69c54f01ca",
@@ -962,7 +993,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "25 november 2025, 02:32",
+      "uploaded_time": "27 november 2025, 01:31",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/18450664/7f45b3a6-8a16-41ac-a652-b2bbb4a04eda",
         "https://images.blocketcdn.se/dynamic/1600w/item/18450664/d8d0fbef-8105-4d8b-a407-f79a985ca8ed",
@@ -1016,9 +1047,9 @@
         "Dragkrok, fast",
         "ECC",
         "Elektriska sidospeglar",
-        "Elektriska säten med minne",
         "Elhissar (fram och bak)",
         "Elinfällbara sidospeglar",
+        "Elstol förare",
         "Euro NCAP 5",
         "Farthållare",
         "Fällbart baksäte",
@@ -1129,7 +1160,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "13 november 2025, 15:28",
+      "uploaded_time": "27 november 2025, 03:13",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/17420868/1f9f16ac-891c-4aab-ac23-a1df048862fc",
         "https://images.blocketcdn.se/dynamic/1600w/item/17420868/178faaf9-9110-4080-9a6d-35be06ea1fb3",
@@ -1274,7 +1305,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "13 november 2025, 18:53",
+      "uploaded_time": "27 november 2025, 02:03",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/18214207/7051fdfa-6f62-427a-baf5-4b2a543f629a",
         "https://images.blocketcdn.se/dynamic/1600w/item/18214207/4bb91919-3d85-488a-ae29-7b244a803b42",
@@ -1433,7 +1464,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "25 november 2025, 02:50",
+      "uploaded_time": "27 november 2025, 01:44",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/18213765/dda3f91b-d910-49b9-a793-c68567f8054a",
         "https://images.blocketcdn.se/dynamic/1600w/item/18213765/0712e79d-ba96-42f0-a492-9f911de55bdb",
@@ -1584,7 +1615,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "13 november 2025, 00:38",
+      "uploaded_time": "27 november 2025, 03:02",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/18213263/e41c6c80-8e25-470d-99a0-a5a59159c80f",
         "https://images.blocketcdn.se/dynamic/1600w/item/18213263/ed0288cd-2c11-4c6b-806a-eb56737b5f74",
@@ -1723,7 +1754,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "25 november 2025, 01:24",
+      "uploaded_time": "27 november 2025, 00:44",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/17598001/24daaa2d-a266-4767-b590-222658851627",
         "https://images.blocketcdn.se/dynamic/1600w/item/17598001/7b643f0d-20e5-498b-8ceb-202d493954ac",
@@ -1876,7 +1907,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "25 november 2025, 01:23",
+      "uploaded_time": "27 november 2025, 00:44",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/13763801/7ab3dc93-2771-44fd-99ac-82dfcb7da37d",
         "https://images.blocketcdn.se/dynamic/1600w/item/13763801/802b663f-c107-4064-93d9-35e2caeb04e6",
@@ -2020,7 +2051,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "13 november 2025, 04:54",
+      "uploaded_time": "27 november 2025, 02:51",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/15794156/cf37a661-5789-4c63-959c-4a78f4f6cb52",
         "https://images.blocketcdn.se/dynamic/1600w/item/15794156/97477ba1-3ff3-4b96-a7bd-b8cbfa50fc44",
@@ -2104,10 +2135,6 @@
           "description": "75 Hk"
         },
         {
-          "header": "Motorvolym",
-          "description": "1,6 l"
-        },
-        {
           "header": "Miltal",
           "description": "14 018 mil"
         },
@@ -2152,7 +2179,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "13 november 2025, 22:05",
+      "uploaded_time": "27 november 2025, 02:30",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/15700177/1de006b6-66f2-491b-910e-9338a6ab31a9",
         "https://images.blocketcdn.se/dynamic/1600w/item/15700177/03e42b58-835e-4ba0-bf89-ec5d11a48966",
@@ -2301,7 +2328,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "13 november 2025, 17:37",
+      "uploaded_time": "27 november 2025, 02:30",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/15517787/4512010a-88af-41a9-b94e-ac4afc67c13d",
         "https://images.blocketcdn.se/dynamic/1600w/item/15517787/a78035ac-a2eb-4919-bbfc-060395717ae2",
@@ -2334,7 +2361,7 @@
       "title": "Volkswagen Sharan",
       "subTitle": "7-sit 2.0 TDI DPF BMT Masters Välvårdad",
       "price": 79900,
-      "description": "**Kan finansieras från 0 kronor i samarbete med Mymoney.** ***Vi tar gärna din bil i inbyte! Hjärtligt välkomna *** ENDAST 690KR / MÅN /*** Utan kontantin-sats. ***0724561313  ***REA ***. **2 Ägare resten bilhandlare.  * Toppskick* kamrembytt * PASSA PÅ & FÖRVÄRVA EN RIKTIGT FIN SAMT VÄLVÅRDAD Vw Sharan,  Endast 2 privat ägare, resten Bilhandlare. Svensksåld.**Nybilkänsla.  Nu har vi fått in en  fin Sharan som är i kanon skick, Nya modellen.  Kamrem & vattenpump nyligen bytt.**Toppskick* Bränslesnål 4.9l/100km. Årsskatt 2928kr. Går kanonbra i motor & växellåda. 7 sits, Diesel värmare fjärrstyrd, *fint i lacken. Sommar & vinterdäck dubb i mycket fint skick.  * Fullstämplad servicebok.  Väl servad bil som är fräsch både in och utvändig, Djur & Rökfri. . Hel och ren in & utvändigt. **OBS, Säljs för kunds räkning så ring innan ni kommer.. Välvårdad. .Garanti går att teckna i samband med köp**  Ring oss gärna på 0724561313 Välkomn",
+      "description": "**Kan finansieras från 0 kronor i samarbete med Mymoney.** ***Vi tar gärna din bil i inbyte! Hjärtligt välkomna *** ENDAST 690KR / MÅN /*** Utan kontantin-sats. ***0724561313  ***REA ***\n. **2 Ägare resten bilhandlare.  * Toppskick* kamrembytt * PASSA PÅ & FÖRVÄRVA EN RIKTIGT FIN SAMT VÄLVÅRDAD Vw Sharan,  Endast 2 privat ägare, resten Bilhandlare. Svensksåld.**Nybilkänsla.  Nu har vi fått in en  fin Sharan som är i kanon skick, Nya modellen.  Kamrem & vattenpump nyligen bytt.**Toppskick* Bränslesnål 4.9l/100km. Årsskatt 2928kr. Går kanonbra i motor & växellåda. 7 sits, Diesel värmare fjärrstyrd, *fint i lacken. Sommar & vinterdäck dubb i mycket fint skick.  * Fullstämplad servicebok.  Väl servad bil som är fräsch både in och utvändig, Djur & Rökfri. . Hel och ren in & utvändigt. **OBS, Säljs för kunds räkning så ring innan ni kommer.. Välvårdad. .Garanti går att teckna i samband med köp**  Ring oss gärna på 0724561313 Välkomn",
       "equipment": [
         "12V-uttag",
         "7-sits",
@@ -2347,8 +2374,8 @@
         "Centrallås",
         "ECC",
         "Elektriska sidospeglar",
-        "Elektriska säten med minne",
         "Elhissar (fram och bak)",
+        "Elstol förare",
         "Euro NCAP 5",
         "Fartbegränsare",
         "Farthållare",
@@ -2460,7 +2487,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "13 november 2025, 00:53",
+      "uploaded_time": "27 november 2025, 02:45",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/15508486/f136fb98-db48-4b4b-b5b1-571ca36a2ac5",
         "https://images.blocketcdn.se/dynamic/1600w/item/15508486/8a468a5d-da3e-495d-ad3d-fe187e95b180",
@@ -2612,7 +2639,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "13 november 2025, 11:08",
+      "uploaded_time": "27 november 2025, 02:11",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/15433611/1620981c-3aa3-484d-987c-8e29fa18e6bd",
         "https://images.blocketcdn.se/dynamic/1600w/item/15433611/6d1aaea9-d603-4ddf-9cab-c8363c2d64ce",
@@ -2740,7 +2767,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "13 november 2025, 22:53",
+      "uploaded_time": "27 november 2025, 02:51",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/14685391/fe896a35-aeb9-43d1-a7bf-fd751043f1e9",
         "https://images.blocketcdn.se/dynamic/1600w/item/14685391/58df4dcb-a530-4e72-a362-803ed30826fc",
@@ -2897,7 +2924,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "13 november 2025, 01:02",
+      "uploaded_time": "27 november 2025, 02:06",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/14494859/d769ff45-b58d-4399-b945-c86b6e86f27c",
         "https://images.blocketcdn.se/dynamic/1600w/item/14494859/d4d04811-cf16-4aaa-94ea-c49060a02e1e",
@@ -3044,7 +3071,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "12 november 2025, 23:27",
+      "uploaded_time": "27 november 2025, 02:44",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/13962932/0dd83ed2-526b-4c7d-9c53-885088463b9f",
         "https://images.blocketcdn.se/dynamic/1600w/item/13962932/57d9698b-c2b9-444b-ba4e-486f29521c23",
@@ -3125,10 +3152,6 @@
           "description": "94 Hk"
         },
         {
-          "header": "Motorvolym",
-          "description": "1,2 l"
-        },
-        {
           "header": "Miltal",
           "description": "17 625 mil"
         },
@@ -3173,7 +3196,7 @@
           "description": "Begagnad bil till salu"
         }
       ],
-      "uploaded_time": "13 november 2025, 21:41",
+      "uploaded_time": "27 november 2025, 02:17",
       "pictures": [
         "https://images.blocketcdn.se/dynamic/1600w/item/13908702/a40d7820-6c98-45d2-bfdd-2be6adf971c7",
         "https://images.blocketcdn.se/dynamic/1600w/item/13908702/1a9d3451-9f0a-42d4-8747-e021be6ba93d",
